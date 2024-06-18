@@ -1,0 +1,33 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: aqua;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.game-container {
+  text-align: center;
+}
+
+.icon {
+  height: 20vh;
+  cursor: pointer;
+  width: 120px;
+}
+
+.move-button {
+  background-color: transparent;
+  border: none;
+}
+
+.reset-button {
+  font-weight: bold;
+  font-size: 15px;
+  padding: 5px;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+}
